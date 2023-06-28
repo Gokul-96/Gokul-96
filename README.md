@@ -1,4 +1,12 @@
-### Hi there 👋
+Hi there 👋
+
+This is Gokulakrishnan M
+
+I’m currently learning Full Stack Development, IIT Madras, Guvi Geeks Network
+
+📫 How to reach me: gokulakrishnan.m96@gmail.com
+
+Profile Visit - ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
 
 <!--
 **Gokul-96/Gokul-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
