@@ -6,7 +6,8 @@ I’m currently learning Full Stack Development, IIT Madras, Guvi Geeks Network
 
 📫 How to reach me: gokulakrishnan.m96@gmail.com
 
-Profile Visit ![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
 
 <!--
 **Gokul-96/Gokul-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
