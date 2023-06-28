@@ -10,7 +10,6 @@ I’m currently learning Full Stack Development, IIT Madras, Guvi Geeks Network
   <img src="https://visitcount.itsvg.in/api?id=Gokul&label=Profile%20views&icon=5&pretty=false" />
 </a>
 
-[![](https://visitcount.itsvg.in/api?id=Gokul&label=Profile%20views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 
 
