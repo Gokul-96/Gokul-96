@@ -6,8 +6,13 @@ I’m currently learning Full Stack Development, IIT Madras, Guvi Geeks Network
 
 📫 How to reach me: gokulakrishnan.m96@gmail.com
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Gokul&label=Profile%20views&icon=5&pretty=false" />
+</a>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
+[![](https://visitcount.itsvg.in/api?id=Gokul&label=Profile%20views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+
 
 <!--
 **Gokul-96/Gokul-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
