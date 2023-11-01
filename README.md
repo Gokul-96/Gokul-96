@@ -70,7 +70,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" style="text-decoration: none;">
-    <img src="https://github-profile-trophy.vercel.app/?username=gokul-96&theme=gruvbox&column=6" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=gokul-96&theme=gruvbox&column=6" alt="Trophies width="50" />
   </a>
 </p>
 
