@@ -6,12 +6,6 @@
 <h3 align="center">MERN Stack Dev Proudly Representing Tamil Nadu, India</h3>
 <p align="center">Certified from GUVI, IITM Research park, Chennai, TN</p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gokul-96" alt="Trophies" />
-  </a>
-</p>
-
 <div align="center">
   <p>🌱 I’m currently learning MERN STACK Development at Guvi</p>
   <p>💬 Ask me about HTML, JavaScript, CSS, React, NodeJS, ExpressJS</p>
@@ -40,6 +34,47 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+</p>
+
+<h3 align="center">Skills:</h3>
+
+<div align="center">
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.shields.io/badge/Bootstrap-5.0-purple?style=for-the-badge&logo=bootstrap" alt="Bootstrap" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" alt="CSS3" />
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://img.shields.io/badge/Express.js-lightgrey?style=for-the-badge&logo=express" alt="Express.js" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-success?style=for-the-badge&logo=mongodb" alt="MongoDB" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-blueviolet?style=for-the-badge&logo=mysql" alt="MySQL" />
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" alt="Node.js" />
+  </a>
+  <a href="https://postman.com" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-red?style=for-the-badge&logo=postman" alt="Postman" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" alt="React" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gokul-96" alt="Trophies" />
+  </a>
 </p>
 
 <p align="center">
