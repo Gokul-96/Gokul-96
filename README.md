@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <img src="git re.gif" alt="Your GIF" width="400" />
+  <img src="git re.gif" alt="Your GIF" width="200" height="200" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -75,7 +75,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokul-96&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="20" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gokul-96&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="200" />
 </p>
 
 <p align="center">
