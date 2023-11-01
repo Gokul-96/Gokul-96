@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <img src="git-repo.gif" alt="Your GIF" width="400" height="300" />
+  <img src="git re.gif" alt=" GIF" width="400" height="300" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
