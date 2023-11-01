@@ -22,20 +22,6 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-</p>
-
 <h3 align="center">Skills:</h3>
 
 <div align="center">
@@ -49,7 +35,7 @@
     <img src="https://img.shields.io/badge/Express.js-lightgrey?style=for-the-badge&logo=express" alt="Express.js" />
   </a>
   <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" alt="HTML5" />
+    <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" alt "HTML5" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript" />
@@ -69,7 +55,20 @@
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" alt="React" />
   </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.netlify.com" target="_blank">
+    <img src="https://img.shields.io/badge/Netlify-blue?style=for-the-badge&logo=netlify" alt="Netlify" />
+  </a>
+  <a href="https://render.com" target="_blank">
+    <img src="https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render" alt="Render" />
+  </a>
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gokul-96&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
