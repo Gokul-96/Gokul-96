@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="mern.jpg" alt="MERN"  width="400" />
+  <img src="mern.jpg" alt="MERN" width="400" />
 </p>
 
 <h1 align="center">Hello, I'm Gokulakrishnan 👋</h1>
@@ -13,12 +13,12 @@
 </div>
 
 <p align="center">
-  <img src="git re.gif" alt="Your GIF" width="400" height="300" />
+  <img src="git-repo.gif" alt="Your GIF" width="400" height="300" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/gokulakrishnan-m-b05413288" target="blank">
+  <a href="https://linkedin.com/in/gokulakrishnan-m-b05413288" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
@@ -32,11 +32,11 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" alt="CSS3" />
   </a>
-  <a href="https://expressjs.com" target="_blank">
+  <a href="https://expressjs.com" target="blank">
     <img src="https://img.shields.io/badge/Express.js-lightgrey?style=for-the-badge&logo=express" alt="Express.js" />
   </a>
   <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" alt "HTML5" />
+    <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" alt="HTML5" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript" />
@@ -69,16 +69,15 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" style="text-decoration: none;">
-    <img src="https://github-profile-trophy.vercel.app/?username=gokul-96&theme=gruvbox&column=6" alt="Trophies  />
+    <img src="https://github-profile-trophy.vercel.app/?username=gokul-96&theme=gruvbox&column=4" alt="Trophies" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokul-96&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="300" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gokul-96&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="400" height="300" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gokul-96&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
 
