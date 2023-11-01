@@ -70,12 +70,12 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" style="text-decoration: none;">
-    <img src="https://github-profile-trophy.vercel.app/?username=gokul-96&theme=gruvbox&column=6" alt="Trophies width="50" />
+    <img src="https://github-profile-trophy.vercel.app/?username=gokul-96&theme=gruvbox&column=6" alt="Trophies width="20" hight="20" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokul-96&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gokul-96&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="20" />
 </p>
 
 <p align="center">
