@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="mern.jpg" alt="MERN"  width="200" />
+  <img src="mern.jpg" alt="MERN"  width="300" />
 </p>
 
 <h1 align="center">Hello,I'm Gokulakrishnan 👋</h1>
@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <img src="git re.gif" alt="Your GIF" width="200" height="200" />
+  <img src="git re.gif" alt="Your GIF" width="400" height="300" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -70,12 +70,12 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" style="text-decoration: none;">
-    <img src="https://github-profile-trophy.vercel.app/?username=gokul-96&theme=gruvbox&column=6" alt="Trophies width="20" hight="20" />
+    <img src="https://github-profile-trophy.vercel.app/?username=gokul-96&theme=gruvbox&column=6" alt="Trophies  />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokul-96&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gokul-96&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="300" height="300" />
 </p>
 
 <p align="center">
