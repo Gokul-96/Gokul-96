@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="mern.jpg" alt="MERN" />
+  <img src="mern.jpg" alt="MERN"  width="200" />
 </p>
 
 <h1 align="center">Hello👋, I'm Gokulakrishnan</h1>
