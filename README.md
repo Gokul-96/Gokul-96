@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="mern.jpg" alt="MERN"  width="300" />
+  <img src="mern.jpg" alt="MERN"  width="400" />
 </p>
 
-<h1 align="center">Hello,I'm Gokulakrishnan 👋</h1>
+<h1 align="center">Hello, I'm Gokulakrishnan 👋</h1>
 <h3 align="center">MERN Stack Dev Proudly Representing Tamil Nadu, India</h3>
-
 
 <div align="center">
   <p>🌱 I’m currently learning MERN STACK Development</p>
