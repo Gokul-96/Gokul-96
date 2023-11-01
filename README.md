@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-profile-image-url.jpg" alt="Gokulakrishnan's Profile" />
+  <img src="mern.jpg" alt="MERN" />
 </p>
 
 <h1 align="center">Hello👋, I'm Gokulakrishnan</h1>
