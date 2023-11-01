@@ -13,6 +13,10 @@
   <p>📫 How to reach me: [gokulakrishnan.m96@gmail.com](mailto:gokulakrishnan.m96@gmail.com)</p>
 </div>
 
+<p align="center">
+  <img src="git re.gif" alt="Your GIF" width="400" />
+</p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/gokulakrishnan-m-b05413288" target="blank">
