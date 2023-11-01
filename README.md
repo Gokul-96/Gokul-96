@@ -2,12 +2,13 @@
   <img src="mern.jpg" alt="MERN"  width="200" />
 </p>
 
-<h1 align="center">Hello👋, I'm Gokulakrishnan</h1>
+<h1 align="center">Hello,I'm Gokulakrishnan 👋</h1>
 <h3 align="center">MERN Stack Dev Proudly Representing Tamil Nadu, India</h3>
-<p align="center">Certified from GUVI, IITM Research park, Chennai, TN</p>
+
 
 <div align="center">
-  <p>🌱 I’m currently learning MERN STACK Development at Guvi</p>
+  <p>🌱 I’m currently learning MERN STACK Development</p>
+  <p>Certified from GUVI, IITM Research park, Chennai, TN</p>
   <p>💬 Ask me about HTML, JavaScript, CSS, React, NodeJS, ExpressJS</p>
   <p>📫 How to reach me: [gokulakrishnan.m96@gmail.com](mailto:gokulakrishnan.m96@gmail.com)</p>
 </div>
@@ -16,9 +17,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/gokulakrishnan-m-b05413288" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/_.gokulakrishnan.__" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
@@ -67,15 +65,17 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gokul-96&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gokul-96" alt="Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy" style="text-decoration: none;">
+    <img src="https://github-profile-trophy.vercel.app/?username=gokul-96&theme=gruvbox&column=6" alt="Trophies" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokul-96&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gokul-96&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gokul-96&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+
