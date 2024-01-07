@@ -6,7 +6,6 @@
 <h3 align="center">MERN Stack Dev Proudly Representing Tamil Nadu, India</h3>
 
 <div align="center">
-  <p>🌱 I’m currently learning MERN STACK Development</p>
   <p>Certified from GUVI, IITM Research park, Chennai, TN</p>
   <p>💬 Ask me about HTML, JavaScript, CSS, React, NodeJS, ExpressJS</p>
   <p>📫 How to reach me: [gokulakrishnan.m96@gmail.com](mailto:gokulakrishnan.m96@gmail.com)</p>
