@@ -46,7 +46,7 @@
  <div style="background-color: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 20px auto; max-width: 600px;">
         <p style="font-size: 18px;">Know about my experiences <a href="https://drive.google.com/file/d/1LiLK4POG1s3TPyB9lRjgnntp9_fmGtaA/view?usp=sharing" style="text-decoration: none; color: #007bff;">for resume</a></p>
         
-    </div>
+   </div>
 
    <div style="background-color: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 20px auto; max-width: 600px;">
         <p style="font-size: 18px;">Explore more about my work on <a href="https://master--hilarious-phoenix-abdb3f.netlify.app/" style="text-decoration: none; color: #007bff;">portfolio</a></p>
